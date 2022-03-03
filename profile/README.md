@@ -48,6 +48,50 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 
 <br>
 
+## Our Stack
+
+
+<div style="display: inline_block" align="center">
+  
+  ### Main Programming Lenguages (and the markup/template one's)
+  
+  <!-- Python Icon -->
+  <img align="center" alt="Python Icon" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <!-- Django Icon -->
+  <img align="center" alt="Django Icon" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+
+  <!-- Jinja2 -->
+  <img align="center" alt="Jinja2 Icon" height="60" src="https://user-images.githubusercontent.com/24397251/156644791-17a98cac-375f-4582-86a8-4dc27d20b97d.png">
+
+  <br>
+
+  <!-- JavaScript Icon -->
+  <img align="center" alt="JavaScript Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <!-- Node.js Icon -->
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="100" width="80" />
+
+  <!-- TypeScript Icon -->
+  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="80" />
+  
+  <br>
+  
+  <!-- React Icon -->
+  <img align="center" alt="React Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <!-- HTML5 Icon -->
+  <img align="center" alt="HTML Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <!-- CSS3 Icon -->
+  <img align="center" alt="CSS Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+
+
+
+
 ## Open Source Projects
 <div align=center>
   <div>
