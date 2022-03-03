@@ -56,7 +56,7 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
     </a>
   </div>
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/N-Multifibra/netbox-proxbox">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Multifibra&repo=netbox-proxbox" />
     </a>
   </div>
