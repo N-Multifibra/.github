@@ -56,35 +56,68 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   ### Main Programming Lenguages (and the markup/template one's)
   
   <!-- Python Icon -->
-  <img align="center" alt="Python Icon" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <a href="https://www.python.org/" target="_blank">
+    <img align="center" height="70" width="80" alt="Python Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  
   <!-- Django Icon -->
-  <img align="center" alt="Django Icon" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img align="center" height="100" width="80" alt="Django Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  </a>
+  
   <!-- Jinja2 -->
-  <img align="center" alt="Jinja2 Icon" height="60" src="https://user-images.githubusercontent.com/24397251/156644791-17a98cac-375f-4582-86a8-4dc27d20b97d.png">
-
-  <br>
-
+  <a href="https://jinja.palletsprojects.com/" target="_blank">
+    <img align="center" height="60" alt="Jinja2 Icon" src="https://user-images.githubusercontent.com/24397251/156644791-17a98cac-375f-4582-86a8-4dc27d20b97d.png">
+  </a>
+  
   <!-- JavaScript Icon -->
-  <img align="center" alt="JavaScript Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://www.javascript.com/" target="_blank">
+    <img align="center" height="60" width="80" alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
 
   <!-- Node.js Icon -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="100" width="80" />
-
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img align="center" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  </a>
+    
   <!-- TypeScript Icon -->
-  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="80" />
-  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <a>
+    
+  <br>
   <br>
   
   <!-- React Icon -->
-  <img align="center" alt="React Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+    <img align="center" height="60" width="80" alt="React Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+    
   <!-- HTML5 Icon -->
-  <img align="center" alt="HTML Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img align="center" height="60" width="80" alt="HTML Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+    
   <!-- CSS3 Icon -->
-  <img align="center" alt="CSS Icon" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img align="center" height="60" width="80" alt="CSS Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  
+  <!-- Bootstrap Icon -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </a>
+    
+  <!-- PostgreSQL Icon -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  </a>
+    
+  <!-- MongoDB Icon -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+
 </div>
 
 
