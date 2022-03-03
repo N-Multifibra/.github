@@ -4,7 +4,9 @@
   </a>
 </div>
 
+
 # Hi there! Let me introduce you to [N-MultiFibra](https://www.nmultifibra.com.br/) 👋
+
 
 ### About us
 We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, which currently have network on the following cities:
@@ -15,7 +17,9 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 - Vargem Grande Paulista
 - and some more...
 
+
 ---
+
 
 ## Social Media
 <!-- Media Social Links -->
@@ -46,7 +50,9 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   </a>
 </div>
 
+
 <br>
+
 
 ## Our Stack
 
@@ -121,15 +127,11 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 </div>
 
 
-
-
-
-
 ## Open Source Projects
 <div align=center>
   <div>
     <a href="https://github.com/N-Multifibra/netbox-proxbox" target="_blank">
-      <img src="https://user-images.githubusercontent.com/24397251/156589138-ce98205c-2e99-4dc0-88e6-dd964f1e3503.png" target="_blank">
+      <img src="https://user-images.githubusercontent.com/24397251/156668969-2f9d3775-41fa-47d2-ba13-7a6cdabb4db0.png" target="_blank">
     </a>
   </div>
   <div>
@@ -139,10 +141,12 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   </div>
 </div>
 
+    
 ---
 
+    
 ## Work with us! 👩‍💼
 Are you from Brazil 🇧🇷 and got interest on **working with us**? Email us with your resume by clicking the following button:  
-  <a href="mailto:trabalheconosco@nmultifibra.com.br">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank">
-  </a>
+<a href="mailto:trabalheconosco@nmultifibra.com.br">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank">
+</a>
