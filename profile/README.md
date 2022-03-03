@@ -19,7 +19,7 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 
 ## Social Media
 <!-- Media Social Links -->
-<div>
+<div style="display: inline_block">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/company/nmultifibra" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -43,8 +43,26 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   </a>
 </div>
 
-### Work with us! 👩‍💼
-Are you from Brazil and got interest on **working with us**? Email us with your resume by clicking the following button:  
+<br>
+
+## Open Source Projects
+<div align=center>
+  <div>
+    <a href="https://github.com/N-Multifibra/netbox-proxbox" target="_blank">
+      <img src="https://user-images.githubusercontent.com/24397251/156589138-ce98205c-2e99-4dc0-88e6-dd964f1e3503.png" target="_blank">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Multifibra&repo=netbox-proxbox" />
+    </a>
+  </div>
+</div>
+
+---
+
+## Work with us! 👩‍💼
+Are you from Brazil 🇧🇷 and got interest on **working with us**? Email us with your resume by clicking the following button:  
   <a href="mailto:trabalheconosco@nmultifibra.com.br">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank">
   </a>
