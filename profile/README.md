@@ -16,6 +16,8 @@
 - [Open Source Projects](#open-source-projects)
 - [Work with us!](#work-with-us)
 
+---
+
 ### About us
 We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, which currently have network on the following cities:
 - **Cotia**
