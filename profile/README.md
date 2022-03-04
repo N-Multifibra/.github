@@ -6,7 +6,15 @@
 
 
 # Hi there! Let me introduce you to [N-MultiFibra](https://www.nmultifibra.com.br/) 👋
-
+## Summary
+- [About us](#about-us) 
+- [Social Media](#social-media)
+- [Our Stack](#our-stack)
+  - [Programming Lenguages (and others)](#main-programming-lenguages-and-others)
+  - [Softwares and Platforms](#main-softwares-and-platforms)
+  - [Device vendors](#main-device-vendors)
+- [Open Source Projects](#open-source-projects)
+- [Work with us!](#work-with-us)
 
 ### About us
 We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, which currently have network on the following cities:
@@ -223,7 +231,7 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 ---
 
     
-## Work with us! 👩‍💼
+## Work with us!
 Are you from Brazil 🇧🇷 and got interest on **working with us**? Email us with your resume by clicking the following button:  
 <a href="mailto:trabalheconosco@nmultifibra.com.br">
   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank">
