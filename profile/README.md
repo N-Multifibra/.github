@@ -123,16 +123,15 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   </a>
-
-  <br><br>
+  
+  <br>
+  <br>
+  
+  ---
   
   ### Main Softwares and Platforms
-    
 
-
-
-
-
+  
   <!-- Netbox -->
   <a href="https://netbox.readthedocs.io/" target="_blank">
     <img align="center" height="80" src="https://user-images.githubusercontent.com/24397251/156674373-81b86f84-d063-41d4-a8ba-9629b8a56251.svg" />
@@ -181,7 +180,10 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
     <img align="center" height="60" src="https://user-images.githubusercontent.com/24397251/156675000-e6f710bd-a834-481a-9f3e-30f783950248.svg" />
   </a>
 
-  <br><br>
+  <br>
+  <br>
+  
+  ---
     
   ### Main device vendors
     
