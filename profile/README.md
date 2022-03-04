@@ -59,7 +59,7 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 
 <div style="display: inline_block" align="center">
   
-  ### Main Programming Lenguages (and the markup/template one's)
+  ### Main Programming Lenguages (and others)
   
   <!-- Python Icon -->
   <a href="https://www.python.org/" target="_blank">
@@ -122,6 +122,82 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   <!-- MongoDB Icon -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+
+  <br><br>
+  
+  ### Main Softwares and Platforms
+    
+
+
+
+
+
+  <!-- Netbox -->
+  <a href="https://netbox.readthedocs.io/" target="_blank">
+    <img align="center" height="80" src="https://user-images.githubusercontent.com/24397251/156674373-81b86f84-d063-41d4-a8ba-9629b8a56251.svg" />
+  </a>
+  &nbsp;  
+  <!-- Proxmox -->
+  <a href="https://www.docker.com/">
+    <img align="center" height="80" src"https://user-images.githubusercontent.com/24397251/156674465-aee91e85-0fc6-438d-903f-04fc7660963a.png" />
+  </a>
+  &nbsp;  
+  <!-- Docker -->
+  <a href="https://netbox.readthedocs.io/" target="_blank">
+    <img align="center" height="80" src="https://user-images.githubusercontent.com/24397251/156674574-f4380a96-f0c3-4e63-bcef-9ef75e5cfe09.png" />
+  </a>
+  &nbsp;
+  <!-- Elastic -->
+  <a href="https://www.elastic.co/" target="_blank">
+    <img align="center" height="80" src="https://user-images.githubusercontent.com/24397251/156674646-bc41d55d-4572-4ab2-90a1-818a861c64bc.svg" />
+  </a> 
+  &nbsp;&nbsp;
+  <!-- Zabbix -->
+  <a href="https://www.zabbix.com/" target="_blank">
+    <img align="center" height="60" src="https://user-images.githubusercontent.com/24397251/156674693-0c469c0f-af95-463a-baba-3f0ca7bcbad1.png" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Grafana -->
+  <a href="https://grafana.com/" target="_blank">
+    <img align="center" height="80" src="https://user-images.githubusercontent.com/24397251/156674772-22e0d214-12fd-4dc4-9d79-20698a2b9657.png" />
+  </a>
+
+  &nbsp;  
+  <!-- FreeRADIUS -->
+  <a href="https://freeradius.org/" target="_blank">
+    <img align="center" height="60" src="https://user-images.githubusercontent.com/24397251/156674855-c04202f8-1292-4135-97f1-445512707940.svg" />
+  </a>
+  &nbsp;  
+  <!-- GenieACS -->
+  <a href="https://genieacs.com/" target="_blank">
+    <img align="center" height="60" src="https://user-images.githubusercontent.com/24397251/156674957-78a06ac4-e593-4f90-9fb3-dc774b55c906.svg" />
+  </a>
+  
+  <!-- AvSystem -->
+  &nbsp;
+  <!-- Take BLiP -->
+  <a href="https://www.take.net/" target="_blank">
+    <img align="center" height="60" src="https://user-images.githubusercontent.com/24397251/156675000-e6f710bd-a834-481a-9f3e-30f783950248.svg" />
+  </a>
+
+  <br><br>
+    
+  ### Main device vendors
+    
+  <!-- Cisco Icon -->
+  <a href="https://www.cisco.com/" target="_blank">
+    <img align="center" height="70" src="https://user-images.githubusercontent.com/24397251/156672242-f7a3ace9-c317-4256-9bc6-f938b8ee59bc.png" />
+  </a>
+    
+  <!-- Huawei Icon -->
+  <a href="https://www.huawei.com/" target="_blank">
+    <img align="center" height="70" src="https://user-images.githubusercontent.com/24397251/156672271-14e8a9be-9f4b-4cd7-ba29-6fbfba046cf9.png" />
+  </a>
+
+  <!-- DELL Icon -->
+  <a href="https://www.dell.com/" target="_blank">
+    <img align="center" height="90" src="https://user-images.githubusercontent.com/24397251/156673555-e93d7ec4-b145-4164-adc9-8efb3a2769a7.png" />
   </a>
 
 </div>
