@@ -78,14 +78,14 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
   
   <!-- Django Icon -->
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img align="center" height="100" width="80" alt="Django Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+    <img align="center" height="60" alt="Django Icon" src="https://user-images.githubusercontent.com/24397251/160657081-29cb6e27-92cb-4541-90e4-1f681e380fe6.png" />
   </a>
   
   <!-- Jinja2 -->
   <a href="https://jinja.palletsprojects.com/" target="_blank">
     <img align="center" height="60" alt="Jinja2 Icon" src="https://user-images.githubusercontent.com/24397251/156644791-17a98cac-375f-4582-86a8-4dc27d20b97d.png">
   </a>
-  
+
   <!-- JavaScript Icon -->
   <a href="https://www.javascript.com/" target="_blank">
     <img align="center" height="60" width="80" alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
