@@ -221,21 +221,6 @@ We are a **Internet Service Provider (ISP)** in Sao Paulo - Brazil 🇧🇷, whi
 
 </div>
 
-
-## Open Source Projects
-<div align=center>
-  <div>
-    <a href="https://github.com/N-Multifibra/netbox-proxbox" target="_blank">
-      <img src="https://user-images.githubusercontent.com/24397251/156668969-2f9d3775-41fa-47d2-ba13-7a6cdabb4db0.png" target="_blank">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/N-Multifibra/netbox-proxbox">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Multifibra&repo=netbox-proxbox" />
-    </a>
-  </div>
-</div>
-
     
 ---
 
